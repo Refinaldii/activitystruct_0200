@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "contoh2", "contoh2\contoh2.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "contoh3", "contoh3\contoh3.vcxproj", "{612F8776-B66E-4317-991D-27566EC9ED6F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Contoh4", "Contoh4\Contoh4.vcxproj", "{FB4F74C1-249B-432E-992A-F1BCBFD5C5A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{612F8776-B66E-4317-991D-27566EC9ED6F}.Release|x64.Build.0 = Release|x64
 		{612F8776-B66E-4317-991D-27566EC9ED6F}.Release|x86.ActiveCfg = Release|Win32
 		{612F8776-B66E-4317-991D-27566EC9ED6F}.Release|x86.Build.0 = Release|Win32
+		{FB4F74C1-249B-432E-992A-F1BCBFD5C5A0}.Debug|x64.ActiveCfg = Debug|x64
+		{FB4F74C1-249B-432E-992A-F1BCBFD5C5A0}.Debug|x64.Build.0 = Debug|x64
+		{FB4F74C1-249B-432E-992A-F1BCBFD5C5A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB4F74C1-249B-432E-992A-F1BCBFD5C5A0}.Debug|x86.Build.0 = Debug|Win32
+		{FB4F74C1-249B-432E-992A-F1BCBFD5C5A0}.Release|x64.ActiveCfg = Release|x64
+		{FB4F74C1-249B-432E-992A-F1BCBFD5C5A0}.Release|x64.Build.0 = Release|x64
+		{FB4F74C1-249B-432E-992A-F1BCBFD5C5A0}.Release|x86.ActiveCfg = Release|Win32
+		{FB4F74C1-249B-432E-992A-F1BCBFD5C5A0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
