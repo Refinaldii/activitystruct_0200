@@ -20,4 +20,14 @@ int main() {
         getline(cin, mhs[i].nim);
         cout << "Nama Mahasiswa : ";
         getline(cin, mhs[i].nama);
+
+        cout << "Alamat Mahasiswa : " << endl;
+        cout << "\t Nama Desa : ";
+        getline(cin, mhs[i].alamat.desa);
+        cout << "\t Nama Kota : ";
+        getline(cin, mhs[i].alamat.kota);
+        cout << "Umur Mahasiswa : ";
+        cin >> mhs[i].umur;
+        cin.ignore(); // Ignore newline character
+        cout << endl;
     }
