@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "activitystruct_0200", "activitystruct_0200.vcxproj", "{9DDCF497-3FEE-4AAF-B7B4-A991479ABB6C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "contoh2", "contoh2\contoh2.vcxproj", "{DA50C5C0-B448-4FAB-8131-BED02985B823}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{9DDCF497-3FEE-4AAF-B7B4-A991479ABB6C}.Release|x64.Build.0 = Release|x64
 		{9DDCF497-3FEE-4AAF-B7B4-A991479ABB6C}.Release|x86.ActiveCfg = Release|Win32
 		{9DDCF497-3FEE-4AAF-B7B4-A991479ABB6C}.Release|x86.Build.0 = Release|Win32
+		{DA50C5C0-B448-4FAB-8131-BED02985B823}.Debug|x64.ActiveCfg = Debug|x64
+		{DA50C5C0-B448-4FAB-8131-BED02985B823}.Debug|x64.Build.0 = Debug|x64
+		{DA50C5C0-B448-4FAB-8131-BED02985B823}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA50C5C0-B448-4FAB-8131-BED02985B823}.Debug|x86.Build.0 = Debug|Win32
+		{DA50C5C0-B448-4FAB-8131-BED02985B823}.Release|x64.ActiveCfg = Release|x64
+		{DA50C5C0-B448-4FAB-8131-BED02985B823}.Release|x64.Build.0 = Release|x64
+		{DA50C5C0-B448-4FAB-8131-BED02985B823}.Release|x86.ActiveCfg = Release|Win32
+		{DA50C5C0-B448-4FAB-8131-BED02985B823}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
